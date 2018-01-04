@@ -1,0 +1,6 @@
+[package]
+name = "holon-vm"
+version = "0.1.0"
+authors = ["Yuuki Fujihara <mail@fujiy.me>"]
+
+[dependencies]
